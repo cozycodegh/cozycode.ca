@@ -15,7 +15,7 @@ Then, remove and re-add platforms to re-build the plugin:
 cordova platform rm android
 cordova platform add android
 ```
-[View new updates](https://github.com/cozycodegh/cordova-plugin-inapppurchases/releases)
+[View updates to the plugin](https://github.com/cozycodegh/cordova-plugin-inapppurchases/releases)
 
 View the documentation to make calls to the plugin from `www/index.js`:
 
