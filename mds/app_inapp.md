@@ -18,6 +18,7 @@ cordova platform add android
 [View new updates](https://github.com/cozycodegh/cordova-plugin-inapppurchases/releases)
 
 View the documentation to make calls to the plugin from `www/index.js`:
+
 [`inAppPurchases.getAllProductInfo(productIds)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/getAllProductInfo.md) <br>
 [`inAppPurchases.restorePurchases()`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/restorePurchases.md)  <br>
 [`inAppPurchases.purchase(productId)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/purchase.md)  <br>
