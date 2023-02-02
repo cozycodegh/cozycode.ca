@@ -1,10 +1,13 @@
-# Cordova-Plugin-InAppPurchases
+# About Cordova-Plugin-InAppPurchases
 
+<hr/>
 <div align="center">
 
 [view this post on github](https://github.com/cozycodegh/cordova-plugin-inapppurchases)
 
 </div>
+
+jump to: [PLUGIN USAGE](#plugin-usage) | [Testing App](#testing-app) | [Demo App](#demo-app) | [Cordova](#create-app) | [ADD IN APP PURCHASES](#add-inapp) | [Testing Tips](#testing-tips) | [Future Improvements](#future) | [cozycode.ca](#more-cozycode) | [Open Source License](#license) 
 <hr/>
  
 Updated __2023__ for [Cordova](https://cordova.apache.org/) with current:<br>
@@ -28,32 +31,32 @@ Have a good one! :grinning:
 
 Add these calls inside of your cordova JavaScript to make in-app purchases and subscriptions:
 
-[`inAppPurchases.getAllProductInfo(productIds)`](docs/getAllProductInfo.md) <br>
-[`inAppPurchases.restorePurchases()`](docs/restorePurchases.md)  <br>
-[`inAppPurchases.purchase(productId)`](docs/purchase.md)  <br>
-[`inAppPurchase.completePurchase(productId,consume)`](docs/completePurchase.md) <br>
+[`inAppPurchases.getAllProductInfo(productIds)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/getAllProductInfo.md) <br>
+[`inAppPurchases.restorePurchases()`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/restorePurchases.md)  <br>
+[`inAppPurchases.purchase(productId)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/purchase.md)  <br>
+[`inAppPurchase.completePurchase(productId,consume)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/completePurchase.md) <br>
 
 The plugin creates an `inAppPurchases` object which can make calls to the store. <br>
 
-[see more on using the plugin](docs/pluginAPI.md)
+[see more on using the plugin](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/pluginAPI.md)
 
-# Testing App
+# Testing App<a id="testing-app"></a><br>
 
 After creating [App Store and Google Play accounts and in-app products](#testing-tips), this app can test purchases. <br/>
 Download test app here: [cordova-plugin-inapppurchases Test App](https://github.com/cozycodegh/cordova-plugin-inapppurchases_TESTAPP)
 <p align="center">
-<img src="docs/browser_test.png" alt="" width="300" align="center" />
+<img src="https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/browser_test.png" alt="" width="300" align="center" />
 </p>
 
-# Demo App
+# Demo App<a id="demo-app"></a><br>
 
 This app shows how to use this plugin to load and make purchases in a [Cordova](https://cordova.apache.org/) app:<br/>
 Download demo app here: [cordova-plugin-inapppurchases Demo App](https://github.com/cozycodegh/cordova-plugin-inapppurchases_DEMOAPP)
 <p align="center">
-<img src="docs/browser_demo.png" alt="" width="300" align="center" />
+<img src="https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/browser_demo.png" alt="" width="300" align="center" />
 </p>
 
-# CREATE AN APP WITH CORDOVA
+# CREATE AN APP WITH CORDOVA<a id="create-app"></a><br>
 
 How to create a Cordova app: <br>
 ```properties
@@ -61,12 +64,12 @@ npm install -g cordova
 cordova create directory_name com.your_name_or_company.your_app_name
 ```
 <p align="center">
-<img src="docs/cordova.png" alt="cordova app" width="300" align="center" />
+<img src="https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/cordova.png" alt="cordova app" width="300" align="center" />
 </p>
 
 Cordova is an open source project maintained by Apache that lets you make apps written in HTML, css, and JavaScript. You can create cross-platform apps to publish on the Google Play Store for Android, and the Appstore for iOS, MacOS, and Apple devices.
 
-# ADD IN APP PURCHASES
+# ADD IN APP PURCHASES<a id="add-inapp"></a><br>
 
 1. Add the plugin<br>
 The spelling of this plugin is cordova-plugin-inapppurchases with an s,<br> 
@@ -97,7 +100,7 @@ coming soon
 
 # Testing Tips<a id="testing-tips"></a>
 
-see [common error messages](docs/errors.md) to handle other results 
+see [common error messages](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/errors.md) to handle other results 
 
 ## Android
 
@@ -117,21 +120,21 @@ see [common error messages](docs/errors.md) to handle other results
 4. now you can log in to test accounts in the test device's settings, or the prompt that comes up in a simulator and test out in-app purchases
     * you should be able to test without having to submit your app for review
   
-# Future Improvements
+# Future Improvements<a id="future"></a><br>
 - [ ] add internal receipt checking for iOS
 - [ ] update to also include Storekit 2
 - [ ] support Windows apps
 - [x] tested working 2023 with Google Play Billing Library 5 for consumables, non-consumables, and subscriptions
 - [x] tested working 2023 with StoreKit for consumables, non-consumables, and subscriptions
 
-# More from [cozycode.ca](https://cozycode.ca)
+# More from [cozycode.ca](https://cozycode.ca)<a id="more-cozycode"></a><br>
 
   * [make apps with JavaScript](https://cozycode.ca/post?pon=make-an-app-with-cordova)
   * [how to make an in-app purchases with Cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
   * [a testing app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-TEST-APP)
   * [a demo app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-DEMO-APP)
 
-# Open Source License
+# Open Source License<a id="license"></a><br>
 
 MIT Licensed (MIT)
 
