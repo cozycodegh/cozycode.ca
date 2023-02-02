@@ -15,4 +15,5 @@ More from [cozycode.ca](https://cozycode.ca):
   * [make apps with JavaScript](https://cozycode.ca/post?pon=make-an-app-with-cordova)
   * [how to make an in-app purchases with cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
   * [a testing app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-TEST-APP)
+  * [more on in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-backupreadme)
 

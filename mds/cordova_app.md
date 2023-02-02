@@ -59,3 +59,4 @@ More from [cozycode.ca](https://cozycode.ca):
   * [how to make an in-app purchases with cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
   * [a testing app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-TEST-APP)
   * [a demo app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-DEMO-APP)
+  * [more on in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-backupreadme)
