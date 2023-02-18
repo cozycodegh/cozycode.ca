@@ -9,11 +9,11 @@ or
 cordova plugin add cordova-plugin-ads-donottrack
 ```
 
-View the [documentation](https://github.com/cozycodegh/cordova-plugin-ads#plugin-usage) to make calls to the plugin from `www/index.js`:
+View the [documentation](https://cozycode.ca/post?pon=cordova-plugin-ads-backupreadme) to make calls to the plugin from `www/index.js`:
 
 <ins>banner ads</ins> <br>
-[`adMob.banner(bannerId)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/banner.md) <br>
-[`adMob.removeBanner()`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/banner.md#remove-banner) <br>
+[`adMob.banner(bannerId)`](https://github.com/cozycodegh/cordova-plugin-ads/blob/main/docs/banner.md) <br>
+[`adMob.removeBanner()`](https://github.com/cozycodegh/cordova-plugin-ads/blob/main/docs/banner.md#remove-banner) <br>
 
 [See updates to the plugin here](https://github.com/cozycodegh/cordova-plugin-ads/releases) [and here.](https://github.com/cozycodegh/cordova-plugin-ads-donottrack/releases)
 
@@ -35,9 +35,9 @@ Feel free to comment here or [fork the code](https://github.com/cozycodegh/cordo
 <p>
 
 More from [cozycode.ca](https://cozycode.ca):  
+  * [more on adding ads to a Cordova app](https://cozycode.ca/post?pon=cordova-plugin-ads-backupreadme)
   * [make apps with JavaScript](https://cozycode.ca/post?pon=make-an-app-with-cordova)
   * [how to make an in-app purchases with cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
   * [a demo app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-DEMO-APP)
   * [more on in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-backupreadme)
-  * [add ads to a Cordova app](https://cozycode.ca/post?pon=cordova-plugin-ads)
 
