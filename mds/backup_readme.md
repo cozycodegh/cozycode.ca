@@ -140,6 +140,7 @@ see [common error messages](https://github.com/cozycodegh/cordova-plugin-inapppu
   * [how to make an in-app purchases with Cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
   * [a testing app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-TEST-APP)
   * [a demo app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-DEMO-APP)
+  * [how to add ads to an app made with Cordova](https://cozycode.ca/post?pon=cordova-plugin-ads)
 
 # Open Source License<a id="license"></a><br>
 

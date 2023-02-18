@@ -56,7 +56,8 @@ cordova plugin add cordova-plugin-inapppurchases
 Cordova has [plugins](https://cordova.apache.org/plugins/) for working with device capabilities like the camera or battery status.
 
 More from [cozycode.ca](https://cozycode.ca):  
-  * [how to make an in-app purchases with cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
+  * [how to add ads to an app made with Cordova](https://cozycode.ca/post?pon=cordova-plugin-ads)
+  * [how to make an in-app purchase with cordova](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases)
   * [a testing app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-TEST-APP)
   * [a demo app for in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-DEMO-APP)
   * [more on in-app purchases](https://cozycode.ca/post?pon=cordova-plugin-inapppurchases-backupreadme)
