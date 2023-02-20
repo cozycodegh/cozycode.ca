@@ -19,8 +19,6 @@ View the [documentation](https://github.com/cozycodegh/cordova-plugin-inapppurch
 
 <ins>Updates</ins>
 
-<ins>Updates</ins>
-
 [See updates to the plugin here.](https://github.com/cozycodegh/cordova-plugin-inapppurchases/releases)
 
 To install the latest version on a Cordova app that has an out-dated version, add and remove the plugin:
