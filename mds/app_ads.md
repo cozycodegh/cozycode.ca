@@ -15,6 +15,8 @@ View the [documentation](https://cozycode.ca/post?pon=cordova-plugin-ads-backupr
 [`adMob.banner(bannerId)`](https://github.com/cozycodegh/cordova-plugin-ads/blob/main/docs/banner.md) <br>
 [`adMob.removeBanner()`](https://github.com/cozycodegh/cordova-plugin-ads/blob/main/docs/banner.md#remove-banner) <br>
 
+<ins>Updates</ins>
+
 [See updates to the plugin here](https://github.com/cozycodegh/cordova-plugin-ads/releases) [and here.](https://github.com/cozycodegh/cordova-plugin-ads-donottrack/releases)
 
 To install the latest version on a Cordova app that has an out-dated version, add and remove the plugin:
