@@ -5,12 +5,19 @@ Add the plugin to a cordova project to view and make in-app purchases and subscr
 cordova plugin add cordova-plugin-inapppurchases
 ```
 
+For Android apps, create a file at `www/manifest.json` containing your Google Play Store billing key from the monetization page:<br>
+```js
+{ "play_store_key": "<Base64-encoded public key from the Google Play Store>" }
+```
+
 View the [documentation](https://github.com/cozycodegh/cordova-plugin-inapppurchases#cordova-plugin-inapppurchases) to make calls to the plugin from `www/index.js`:
 
 [`inAppPurchases.getAllProductInfo(productIds)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/getAllProductInfo.md) <br>
 [`inAppPurchases.restorePurchases()`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/restorePurchases.md)  <br>
 [`inAppPurchases.purchase(productId)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/purchase.md)  <br>
 [`inAppPurchase.completePurchase(productId,consume)`](https://github.com/cozycodegh/cordova-plugin-inapppurchases/blob/main/docs/completePurchase.md)
+
+<ins>Updates</ins>
 
 [See updates to the plugin here.](https://github.com/cozycodegh/cordova-plugin-inapppurchases/releases)
 
